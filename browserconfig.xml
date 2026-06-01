@@ -1,0 +1,10 @@
+<browserconfig>
+<msapplication>
+<tile>
+<square72x72logo src="https://lh3.googleusercontent.com/d/13PF-VtS5LjCnhQEEVrX7tqu7wpFeZWdV"/>
+<square152x152logo src="https://lh3.googleusercontent.com/d/1UDiHMMbvvMbT5VDIMqIsVh7D5IB0RWcf"/>
+<square512x512logo src="https://lh3.googleusercontent.com/d/1TFDJ8iYdPHNBY_E0sxP3yCPjo533VYBe"/>
+<TileColor>#ffffff</TileColor>
+</tile>
+</msapplication>
+</browserconfig>
